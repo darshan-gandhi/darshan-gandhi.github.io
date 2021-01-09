@@ -1,47 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6f86726dd06cedb247cb3f271907380",
+    "revision": "eeeb0289d18f7f308d8d2bb24b8c327a",
     "url": "/index.html"
   },
   {
-    "revision": "b3147030b53773e60f69",
+    "revision": "f06c8120663e2322615c",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "17de951ed87304da3006",
+    "revision": "ee42610210e55a15286c",
     "url": "/static/css/4.a922a401.chunk.css"
   },
   {
-    "revision": "8ccf4fd523bc9a1936ec",
+    "revision": "6d8b9d4223c5e362818a",
     "url": "/static/css/main.0fdb9f58.chunk.css"
   },
   {
-    "revision": "db7633849a4d0a9f09e7",
-    "url": "/static/js/2.0e2482f8.chunk.js"
+    "revision": "7fa369580e44b4e10980",
+    "url": "/static/js/2.f5c1bf33.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/static/js/2.0e2482f8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f5c1bf33.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3147030b53773e60f69",
-    "url": "/static/js/3.d2dc194c.chunk.js"
+    "revision": "f06c8120663e2322615c",
+    "url": "/static/js/3.1fb5f720.chunk.js"
   },
   {
-    "revision": "17de951ed87304da3006",
-    "url": "/static/js/4.b1c513dc.chunk.js"
+    "revision": "ee42610210e55a15286c",
+    "url": "/static/js/4.ee8adacf.chunk.js"
   },
   {
-    "revision": "8ccf4fd523bc9a1936ec",
-    "url": "/static/js/main.1f43fb9a.chunk.js"
+    "revision": "6d8b9d4223c5e362818a",
+    "url": "/static/js/main.af740a30.chunk.js"
   },
   {
-    "revision": "060d3a43d44d00301b40",
-    "url": "/static/js/runtime-main.a35b163a.js"
+    "revision": "f2d00524ec71a9d0972b",
+    "url": "/static/js/runtime-main.d1a48c34.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "113a23999d883fde596c64c3abdc48b4",
+    "url": "/static/media/ICECA logo.113a2399.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -52,20 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Zee5.af49c6a1.jpeg"
   },
   {
-    "revision": "47a7a717679b640ceb1b05d38c480a61",
-    "url": "/static/media/codeInLogo.47a7a717.webp"
-  },
-  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "e79c639294c805688be731921368c8f8",
-    "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
     "revision": "37568bb001f6ea3bd55c78d225b1a573",
@@ -84,10 +80,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mumbai-university.4c534e97.jpg"
   },
   {
-    "revision": "ee62cb58630f29a6e6201b49d4c03728",
-    "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
   },
@@ -98,5 +90,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cc21f86fd30581c61195f9baaf06bb51",
     "url": "/static/media/udacity.cc21f86f.jpeg"
+  },
+  {
+    "revision": "a85a0ee0745c1e328326cca89074203a",
+    "url": "/static/media/xilytica.a85a0ee0.jpg"
   }
 ]);
