@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fdb9f58.chunk.css",
+    "main.js": "/static/js/main.af740a30.chunk.js",
+    "main.js.map": "/static/js/main.af740a30.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d1a48c34.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d1a48c34.js.map",
+    "static/js/2.f5c1bf33.chunk.js": "/static/js/2.f5c1bf33.chunk.js",
+    "static/js/2.f5c1bf33.chunk.js.map": "/static/js/2.f5c1bf33.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/static/css/3.00373544.chunk.css",
+    "static/js/3.1fb5f720.chunk.js": "/static/js/3.1fb5f720.chunk.js",
+    "static/js/3.1fb5f720.chunk.js.map": "/static/js/3.1fb5f720.chunk.js.map",
+    "static/css/4.a922a401.chunk.css": "/static/css/4.a922a401.chunk.css",
+    "static/js/4.ee8adacf.chunk.js": "/static/js/4.ee8adacf.chunk.js",
+    "static/js/4.ee8adacf.chunk.js.map": "/static/js/4.ee8adacf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4ba3723b924ac8ca18f53213d2fe3d67.js": "/precache-manifest.4ba3723b924ac8ca18f53213d2fe3d67.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
+    "static/css/4.a922a401.chunk.css.map": "/static/css/4.a922a401.chunk.css.map",
+    "static/css/main.0fdb9f58.chunk.css.map": "/static/css/main.0fdb9f58.chunk.css.map",
+    "static/js/2.f5c1bf33.chunk.js.LICENSE.txt": "/static/js/2.f5c1bf33.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/ICECA logo.png": "/static/media/ICECA logo.113a2399.png",
+    "static/media/Zee5.jpeg": "/static/media/Zee5.af49c6a1.jpeg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/hug.jpg": "/static/media/hug.37568bb0.jpg",
+    "static/media/kjsce.png": "/static/media/kjsce.45a15e11.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/mumbai-university.jpg": "/static/media/mumbai-university.4c534e97.jpg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.13780cdd.svg",
+    "static/media/udacity.jpeg": "/static/media/udacity.cc21f86f.jpeg",
+    "static/media/xilytica.jpg": "/static/media/xilytica.a85a0ee0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a48c34.js",
+    "static/js/2.f5c1bf33.chunk.js",
+    "static/css/main.0fdb9f58.chunk.css",
+    "static/js/main.af740a30.chunk.js"
+  ]
+}
