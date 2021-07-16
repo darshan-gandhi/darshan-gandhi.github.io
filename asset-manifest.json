@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.779ce1df.chunk.css",
-    "main.js": "/static/js/main.e117073f.chunk.js",
-    "main.js.map": "/static/js/main.e117073f.chunk.js.map",
+    "main.css": "/static/css/main.1fafe8f0.chunk.css",
+    "main.js": "/static/js/main.e253639d.chunk.js",
+    "main.js.map": "/static/js/main.e253639d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dcdc708b.js",
     "runtime-main.js.map": "/static/js/runtime-main.dcdc708b.js.map",
     "static/js/2.649512c8.chunk.js": "/static/js/2.649512c8.chunk.js",
@@ -14,11 +14,11 @@
     "static/js/4.16180458.chunk.js": "/static/js/4.16180458.chunk.js",
     "static/js/4.16180458.chunk.js.map": "/static/js/4.16180458.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ff9af6d3736c975a057b0f8f3c7fcda9.js": "/precache-manifest.ff9af6d3736c975a057b0f8f3c7fcda9.js",
+    "precache-manifest.79d458474c7f343bb4a1a9315034370a.js": "/precache-manifest.79d458474c7f343bb4a1a9315034370a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/static/css/3.00373544.chunk.css.map",
     "static/css/4.a922a401.chunk.css.map": "/static/css/4.a922a401.chunk.css.map",
-    "static/css/main.779ce1df.chunk.css.map": "/static/css/main.779ce1df.chunk.css.map",
+    "static/css/main.1fafe8f0.chunk.css.map": "/static/css/main.1fafe8f0.chunk.css.map",
     "static/js/2.649512c8.chunk.js.LICENSE.txt": "/static/js/2.649512c8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/ICECA logo.png": "/static/media/ICECA logo.113a2399.png",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.dcdc708b.js",
     "static/js/2.649512c8.chunk.js",
-    "static/css/main.779ce1df.chunk.css",
-    "static/js/main.e117073f.chunk.js"
+    "static/css/main.1fafe8f0.chunk.css",
+    "static/js/main.e253639d.chunk.js"
   ]
 }
